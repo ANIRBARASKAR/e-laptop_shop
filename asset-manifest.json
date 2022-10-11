@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/e-laptop_shop/static/css/main.207145ac.css",
+    "main.js": "/e-laptop_shop/static/js/main.21dd7199.js",
+    "index.html": "/e-laptop_shop/index.html",
+    "main.207145ac.css.map": "/e-laptop_shop/static/css/main.207145ac.css.map",
+    "main.21dd7199.js.map": "/e-laptop_shop/static/js/main.21dd7199.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.207145ac.css",
+    "static/js/main.21dd7199.js"
+  ]
+}
